@@ -25,5 +25,4 @@ Talk to me about
 - LinkedIn - [Here](https://www.linkedin.com/in/avner-pelc-27441b253/)
 - Gmail - [Here](mailto:avnerpelc00@gmail.com)
 
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
+
