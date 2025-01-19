@@ -7,7 +7,7 @@ Sr. Software Consultant
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnerpelc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧐 About
- Estudante de Análise e Desenvolvimento de Sistemas com ótimo
+ Formado em Análise e Desenvolvimento de Sistemas com ótimo
 desempenho acadêmico e grande disposição para o aprendizado. Capaz de
 oferecer um serviço de qualidade através de conhecimentos práticos e boas
 habilidades interpessoais, visando o desenvolvimento profissional.
