@@ -1,10 +1,6 @@
 ### Hi there 👋
 # Avner Pelc 😃
-Sr. Software Consultant
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avnerpelc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnerpelc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧐 About
  Formado em Análise e Desenvolvimento de Sistemas com ótimo
